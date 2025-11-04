@@ -6,16 +6,8 @@ I'm a passionate Data scientist with a good knowledge in Python, SQL, Statistics
 *   **Languages**  :  Python.
 *   **Tools**      : Jupyter Notebook, Google Colab, Pycharm, Visual Studio, MYSQL.
 
-### 📊 GitHub Stats (Optional)
-<!-- You can use external tools like GitHub Readme Stats to dynamically display your stats -->
-<!-- Replace 'yourusername' with your actual GitHub username -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ### 📫 How to Reach Me
-*   **Email**: (mailto:venkatesh.created@gmail.com)
+*   **Email**: mailto:venkatesh.created@gmail.com
 
 <!--
 **venkatesh-indla/venkatesh-indla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
