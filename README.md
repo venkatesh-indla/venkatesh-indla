@@ -3,7 +3,7 @@
 I'm a passionate Data scientist with a good knowledge in Python, SQL, Statistics, Power Bi Ms Excel, Machine Learning, Deep Learning. I love tackling complex problems and continuously learning new technologies.
 
 ### 🛠️ Skills & Tools
-*   **Languages**  :  Python, SQL
+*   **Languages**  :  Python, SQL.
 *   **Tools**      : Jupyter Notebook, Google Colab, Pycharm, Visual Studio, MYSQL.
 
 ### 📫 How to Reach Me
